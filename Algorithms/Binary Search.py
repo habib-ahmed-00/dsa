@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def binary_search(array, target):
     '''
     Binary search: Divide and Conquer O(N*logN)
