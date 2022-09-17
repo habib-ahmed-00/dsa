@@ -9,3 +9,7 @@ My DSA journey
 ## Day 2
 
 - Sliding Window
+
+## Day 3
+
+- Array String Question Easy - Move Zeroes
