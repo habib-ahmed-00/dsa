@@ -17,3 +17,8 @@ My DSA journey
 ## Day 4
 
 - Array String Question Easy - Minimum Boats [Leetcode](https://leetcode.com/problems/boats-to-save-people/)
+
+
+## Day 5
+
+- Array String Question Easy - Valid Mountain Array [Leetcode](https://leetcode.com/problems/valid-mountain-array/)
