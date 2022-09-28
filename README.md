@@ -22,3 +22,8 @@ My DSA journey
 ## Day 5
 
 - Array String Question Easy - Valid Mountain Array [Leetcode](https://leetcode.com/problems/valid-mountain-array/)
+
+
+## Day 6
+
+- Array String Question Easy - Container with most water [Leetcode](https://leetcode.com/problems/container-with-most-water/)
