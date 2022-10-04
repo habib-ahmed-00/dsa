@@ -27,3 +27,8 @@ My DSA journey
 ## Day 6
 
 - Array String Question Easy - Container with most water [Leetcode](https://leetcode.com/problems/container-with-most-water/)
+
+
+## Day 7
+
+- Array String Question Medium - Longest Substring Without Repeating Characters [Leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
